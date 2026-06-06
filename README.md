@@ -26,21 +26,29 @@
 
 ## 👋 &nbsp; About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="330" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 > 🧠 &nbsp; **Full Stack + AI Engineer** who loves turning ideas into real, working products.
 
-- 🔭 &nbsp; Currently building **AI-powered apps** — RAG chatbots & smart dashboards
-- 🌱 &nbsp; Diving deep into **Machine Learning, Deep Learning & LLM applications**
-- 💻 &nbsp; Crafting clean full-stack experiences with the **MERN** stack & **TypeScript**
-- ⚔️ &nbsp; Sharpening **DSA** every day in **C++ & Java**
-- 🤝 &nbsp; Open to collaborating on **research-driven ML/AI** & open-source projects
-- ☕ &nbsp; *Superpower:* turning coffee into production-ready code
-- 🧘 &nbsp; *Fun fact:* I debug at 2AM and call it meditation
+- 🔭 &nbsp; Building **AI-powered apps** — RAG chatbots & smart dashboards
+- 🌱 &nbsp; Going deep on **Machine Learning, Deep Learning & LLMs**
+- 💻 &nbsp; Shipping clean full-stack apps with **MERN** & **TypeScript**
+- ⚔️ &nbsp; Grinding **DSA** daily in **C++ & Java**
+- 🤝 &nbsp; Open to **research-driven ML/AI** & open-source collabs
+
+<br/>
+
+<div>
+  <img src="https://img.shields.io/badge/📍_Based_in-India-FF6B6B?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack_+_AI-00D9FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📚_Learning-LLMs_&_System_Design-A970FF?style=flat-square&labelColor=0D1117" />
+</div>
+
+<br/>
+
+> ☕ *Superpower:* turning coffee into production-ready code • 🧘 *Fun fact:* I debug at 2AM and call it meditation
 
 <br clear="right"/>
-
----
 
 ## ⚡ &nbsp; Tech Stack
 
