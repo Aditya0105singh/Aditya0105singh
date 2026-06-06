@@ -53,9 +53,9 @@
 > 💡 *Superpower:* turning coffee into production-ready code — and I debug at 2AM and call it meditation.
 
 </td>
-<td width="42%" valign="top">
+<td width="42%" align="center" valign="middle">
 
-<img align="right" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img width="90%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 </td>
 </tr>
