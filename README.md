@@ -30,7 +30,7 @@
 
 > 🧠 &nbsp; **Full Stack + AI Engineer** who loves turning ideas into real, working products.
 
-- 🔭 &nbsp; Currently building **AI-powered apps** — RAG chatbots, matchmakers & smart dashboards
+- 🔭 &nbsp; Currently building **AI-powered apps** — RAG chatbots & smart dashboards
 - 🌱 &nbsp; Diving deep into **Machine Learning, Deep Learning & LLM applications**
 - 💻 &nbsp; Crafting clean full-stack experiences with the **MERN** stack & **TypeScript**
 - ⚔️ &nbsp; Sharpening **DSA** every day in **C++ & Java**
@@ -78,10 +78,10 @@
 
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </td>
 </tr>
@@ -95,7 +95,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </td>
 </tr>
@@ -104,9 +103,9 @@
 <td>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </td>
 </tr>
@@ -114,50 +113,54 @@
 
 ---
 
-## 🚀 &nbsp; Featured Projects
+## 🛠️ &nbsp; Currently Working On
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Building-00D9FF?style=for-the-badge&labelColor=0D1117" />
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 AI Matchmaker
-AI-powered compatibility engine using embeddings &amp; semantic similarity — matches people on personality, not just profiles.
+### 📚 Study Co-Pilot AI
+RAG-based study assistant that turns any document into an interactive tutor — ask questions, get instant answers from your own notes.
 
-`TypeScript` `Next.js` `AI/ML`
+`Python` `LangChain` `FastAPI` `LLM`
 
-[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/AI-matchmaker)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/Study-co-pilot-AI)
 
 </td>
     <td width="50%" valign="top">
 
-### 📚 Study Co-Pilot AI
-RAG-based study assistant that turns any document into an interactive tutor — ask questions, get instant answers from your own notes.
+### 🏥 E-Clinic Dashboard
+Full-stack healthcare dashboard with real-time patient tracking, appointment management &amp; admin analytics. Deployed to production.
 
-`Python` `LangChain` `FastAPI`
+`TypeScript` `React` `Node.js` `Vite`
 
-[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/Study-co-pilot-AI)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/ECLINIC-DASHBOARD)
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🏥 E-Clinic Dashboard
-Full-stack healthcare dashboard with real-time patient tracking, appointment management &amp; AI-driven insights.
+### 💸 Expense Manager Bot
+WhatsApp bot that tracks your expenses through chat — message it like a friend and it logs everything automatically.
 
-`TypeScript` `React` `Supabase`
+`Python` `WhatsApp API` `MongoDB` `Flask`
 
-[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/Autellia-E-CLINIC)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/expense-manager-whatsapp-bot)
 
 </td>
     <td width="50%" valign="top">
 
-### 💸 Expense Manager Bot
-WhatsApp bot that tracks your expenses through chat — message it like a friend and it handles the rest automatically.
+### 🏠 Airbnb Clone
+A scalable Airbnb-style booking backend built with Spring Boot — containerized with Docker and structured with clean controller mappings.
 
-`Python` `WhatsApp API` `MongoDB`
+`Java` `Spring Boot` `Docker` `Maven`
 
-[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/expense-manager-whatsapp-bot)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/airbnb-repo)
 
 </td>
   </tr>
