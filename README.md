@@ -1,133 +1,201 @@
-<h1 align="center">Hey 👋, I'm Aditya</h1>
+<div align="center">
 
-<h3 align="center">
-MERN Stack Developer • ML/DL Enthusiast • Full Stack + AI Engineer
-</h3>
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Applications;Exploring+Machine+Learning+%26+AI;MERN+Stack+%7C+TypeScript+%7C+Python;Solving+DSA+%26+Building+Projects" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya0105singh&label=Profile+Views&color=7B68EE&style=for-the-badge" />
-</p>
+<!-- TERMINAL INTRO -->
+<div align="center">
+<a href="https://github.com/Aditya0105singh">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=%24+whoami;Aditya+Singh+%E2%80%94+Full+Stack+%2B+AI+Engineer;%24+ls+skills%2F;TypeScript+%7C+Python+%7C+React+%7C+Node+%7C+ML%2FAI;%24+cat+mission.txt;Building+things+that+matter+%F0%9F%9A%80;%24+./run+creativity.sh;Loading+something+awesome..." />
+</a>
+</div>
+
+<br/>
+
+<!-- PROFILE VIEWS + SOCIAL PROOF -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya0105singh&label=Profile+Views&color=0D1117&style=for-the-badge&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Aditya0105singh?label=Followers&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github" />
+</div>
+
+<br/>
 
 ---
 
-# 🚀 About Me
+## 🧬 &nbsp; The Story So Far
 
-- 🤖 Building ML & Deep Learning projects (ANN, CNNs, RAG chatbots)
-- 💻 Full Stack Developer — MERN Stack, TypeScript, Next.js
-- 🧠 Working on AI-powered apps (Study Copilot, AI Matchmaker, E-Clinic)
-- ⚔️ Solving DSA consistently in C++ & Java
-- 🚀 Interested in Full Stack + AI Engineering
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```javascript
+const aditya = {
+  alias    : "E.D.I.T.H",
+  role     : "Full Stack + AI Engineer",
+  location : "India 🇮🇳",
+
+  stack: {
+    languages : ["TypeScript", "Python", "C++", "Java", "JS"],
+    frontend  : ["Next.js", "React", "Tailwind CSS"],
+    backend   : ["Node.js", "Express", "FastAPI", "Flask"],
+    databases : ["MongoDB", "Supabase"],
+    ai_ml     : ["TensorFlow", "LangChain", "HuggingFace", "OpenCV"],
+  },
+
+  currentlyBuilding : [
+    "🤖 AI-powered apps (RAG chatbots, matchmakers)",
+    "🏥 Smart healthcare dashboards",
+    "📚 Study co-pilot for students",
+  ],
+
+  superpower : "Turning coffee ☕ into production-ready code",
+  funFact    : "I debug at 2AM and call it meditation 🧘",
+};
+```
+
+<br clear="right"/>
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ &nbsp; Skills — Visualized
+
+<div align="center">
+
+| 🧠 Domain | 🔧 Technologies | 💪 Depth |
+|---|---|---|
+| **Languages** | TypeScript · Python · C++ · Java · JavaScript | ████████████ |
+| **Frontend** | Next.js · React · Tailwind CSS · HTML5 | ███████████░ |
+| **Backend** | Node · Express · FastAPI · Flask · REST APIs | ██████████░░ |
+| **Databases** | MongoDB · Supabase · PostgreSQL | █████████░░░ |
+| **AI / ML** | TensorFlow · LangChain · HuggingFace · OpenCV | ████████░░░░ |
+| **DevOps & Tools** | Git · AWS · Postman · VS Code · Jupyter | ███████░░░░░ |
+
+</div>
+
+---
+
+## 🚀 &nbsp; Project Universe
+
+<div align="center">
 
 <table>
-<tr>
-<th>Category</th>
-<th>Tech Stack</th>
-</tr>
-<tr>
-<td><b>Languages</b></td>
-<td>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI Matchmaker</h3>
+      <div align="center">
+        <a href="https://github.com/Aditya0105singh/AI-matchmaker" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p>AI-powered compatibility engine using embeddings &amp; semantic similarity. Matches people based on personality, not just profiles.</p>
+        <p><b>Stack:</b> TypeScript · Next.js · AI/ML APIs</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 Study Co-Pilot AI</h3>
+      <div align="center">
+        <a href="https://github.com/Aditya0105singh/Study-co-pilot-AI" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p>RAG-based AI study assistant that turns any document into an interactive tutor. Ask questions, get instant answers from your own notes.</p>
+        <p><b>Stack:</b> Python · LangChain · HuggingFace · FastAPI</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 E-Clinic Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/Aditya0105singh/Autellia-E-CLINIC" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p>Full-stack smart healthcare dashboard with real-time patient tracking, appointment management and AI-driven insights.</p>
+        <p><b>Stack:</b> TypeScript · React · Node.js · Supabase</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💸 Expense Manager Bot</h3>
+      <div align="center">
+        <a href="https://github.com/Aditya0105singh/expense-manager-whatsapp-bot" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p>WhatsApp bot that tracks expenses through chat. Just message it like a friend — it handles the rest automatically.</p>
+        <p><b>Stack:</b> Python · WhatsApp API · MongoDB · Flask</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya0105singh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya0105singh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" />
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 &nbsp; GitHub at a Glance
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Aditya0105singh&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya0105singh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&cache_seconds=60" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya0105singh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=60" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Aditya0105singh&theme=radical&hide_border=true&background=0D1117&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🏆 &nbsp; Achievements
 
-<p align="left">
-<a href="https://www.linkedin.com/in/aditya17-singh">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/AdityaSing95574">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="mailto:adityasingh01517@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya0105singh&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" />
+</div>
 
 ---
 
-<p align="center">
-⭐ From <a href="https://github.com/Aditya0105singh">Aditya0105singh</a>
-</p>
+## 🌐 &nbsp; Let's Connect & Build Together
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya17-singh)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdityaSing95574)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasingh01517@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 💬 &nbsp; Random Dev Quote
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+<div align="center">
+  <sub>⚡ Built with curiosity, caffeine & chaos — by <a href="https://github.com/Aditya0105singh"><b>Aditya Singh</b></a></sub>
+</div>
