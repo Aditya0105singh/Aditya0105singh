@@ -32,6 +32,12 @@
 
 ## 👋 About Me
 
+<div align="center">
+
+<img width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+</div>
+
 > 🧠 I’m a **Full Stack + AI Engineer** who turns ideas into real, working products — from RAG chatbots to production-grade dashboards. I love clean code, fast shipping, and solving hard problems.
 
 <table width="100%">
