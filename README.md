@@ -24,38 +24,21 @@
 
 ---
 
-## 🧬 &nbsp; The Story So Far
+## 👋 &nbsp; About Me
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<br/>
+> 🧠 &nbsp; **Full Stack + AI Engineer** who loves turning ideas into real, working products.
 
-```javascript
-const aditya = {
-  alias    : "E.D.I.T.H",
-  role     : "Full Stack + AI Engineer",
-  location : "India 🇮🇳",
+- 🔭 &nbsp; Currently building **AI-powered apps** — RAG chatbots, matchmakers & smart dashboards
+- 🌱 &nbsp; Diving deep into **Machine Learning, Deep Learning & LLM applications**
+- 💻 &nbsp; Crafting clean full-stack experiences with the **MERN** stack & **TypeScript**
+- ⚔️ &nbsp; Sharpening **DSA** every day in **C++ & Java**
+- 🤝 &nbsp; Open to collaborating on **research-driven ML/AI** & open-source projects
+- ☕ &nbsp; *Superpower:* turning coffee into production-ready code
+- 🧘 &nbsp; *Fun fact:* I debug at 2AM and call it meditation
 
-  stack: {
-    languages : ["TypeScript", "Python", "C++", "Java", "JS"],
-    frontend  : ["Next.js", "React", "Tailwind CSS"],
-    backend   : ["Node.js", "Express", "FastAPI", "Flask"],
-    databases : ["MongoDB", "Supabase"],
-    ai_ml     : ["TensorFlow", "LangChain", "HuggingFace", "OpenCV"],
-  },
-
-  currentlyBuilding : [
-    "🤖 AI-powered apps (RAG chatbots, matchmakers)",
-    "🏥 Smart healthcare dashboards",
-    "📚 Study co-pilot for students",
-  ],
-
-  superpower : "Turning coffee ☕ into production-ready code",
-  funFact    : "I debug at 2AM and call it meditation 🧘",
-};
-```
+<br clear="right"/>
 
 ---
 
@@ -131,61 +114,59 @@ const aditya = {
 
 ---
 
-## 🚀 &nbsp; Project Universe
-
-<div align="center">
+## 🚀 &nbsp; Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Matchmaker</h3>
-      <div align="center">
-        <a href="https://github.com/Aditya0105singh/AI-matchmaker" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br/><br/>
-        <p>AI-powered compatibility engine using embeddings &amp; semantic similarity. Matches people based on personality, not just profiles.</p>
-        <p><b>Stack:</b> TypeScript · Next.js · AI/ML APIs</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 Study Co-Pilot AI</h3>
-      <div align="center">
-        <a href="https://github.com/Aditya0105singh/Study-co-pilot-AI" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br/><br/>
-        <p>RAG-based AI study assistant that turns any document into an interactive tutor. Ask questions, get instant answers from your own notes.</p>
-        <p><b>Stack:</b> Python · LangChain · HuggingFace · FastAPI</p>
-      </div>
-    </td>
+    <td width="50%" valign="top">
+
+### 🤖 AI Matchmaker
+AI-powered compatibility engine using embeddings &amp; semantic similarity — matches people on personality, not just profiles.
+
+`TypeScript` `Next.js` `AI/ML`
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/AI-matchmaker)
+
+</td>
+    <td width="50%" valign="top">
+
+### 📚 Study Co-Pilot AI
+RAG-based study assistant that turns any document into an interactive tutor — ask questions, get instant answers from your own notes.
+
+`Python` `LangChain` `FastAPI`
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/Study-co-pilot-AI)
+
+</td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🏥 E-Clinic Dashboard</h3>
-      <div align="center">
-        <a href="https://github.com/Aditya0105singh/Autellia-E-CLINIC" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br/><br/>
-        <p>Full-stack smart healthcare dashboard with real-time patient tracking, appointment management and AI-driven insights.</p>
-        <p><b>Stack:</b> TypeScript · React · Node.js · Supabase</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">💸 Expense Manager Bot</h3>
-      <div align="center">
-        <a href="https://github.com/Aditya0105singh/expense-manager-whatsapp-bot" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br/><br/>
-        <p>WhatsApp bot that tracks expenses through chat. Just message it like a friend — it handles the rest automatically.</p>
-        <p><b>Stack:</b> Python · WhatsApp API · MongoDB · Flask</p>
-      </div>
-    </td>
+    <td width="50%" valign="top">
+
+### 🏥 E-Clinic Dashboard
+Full-stack healthcare dashboard with real-time patient tracking, appointment management &amp; AI-driven insights.
+
+`TypeScript` `React` `Supabase`
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/Autellia-E-CLINIC)
+
+</td>
+    <td width="50%" valign="top">
+
+### 💸 Expense Manager Bot
+WhatsApp bot that tracks your expenses through chat — message it like a friend and it handles the rest automatically.
+
+`Python` `WhatsApp API` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0105singh/expense-manager-whatsapp-bot)
+
+</td>
   </tr>
 </table>
 
+<div align="center">
+  <a href="https://github.com/Aditya0105singh?tab=repositories">
+    <img src="https://img.shields.io/badge/✨_See_All_Projects-302b63?style=for-the-badge&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -201,7 +182,7 @@ const aditya = {
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Aditya0105singh&theme=radical&hide_border=true&background=0D1117&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Aditya0105singh&theme=radical&hide_border=true&background=0D1117&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <br/>
