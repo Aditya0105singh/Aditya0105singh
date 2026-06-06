@@ -24,31 +24,42 @@
 
 ---
 
-## 👋 &nbsp; About Me
+<div align="center">
 
-<img align="right" width="330" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img src="https://img.shields.io/badge/🟢_Open_to-Internships_%26_Opportunities-2ea043?style=for-the-badge&labelColor=0f0c29" />
 
-> 🧠 &nbsp; **Full Stack + AI Engineer** who loves turning ideas into real, working products.
-
-- 🔭 &nbsp; Building **AI-powered apps** — RAG chatbots & smart dashboards
-- 🌱 &nbsp; Going deep on **Machine Learning, Deep Learning & LLMs**
-- 💻 &nbsp; Shipping clean full-stack apps with **MERN** & **TypeScript**
-- ⚔️ &nbsp; Grinding **DSA** daily in **C++ & Java**
-- 🤝 &nbsp; Open to **research-driven ML/AI** & open-source collabs
-
-<br/>
-
-<div>
-  <img src="https://img.shields.io/badge/📍_Based_in-India-FF6B6B?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack_+_AI-00D9FF?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/📚_Learning-LLMs_&_System_Design-A970FF?style=flat-square&labelColor=0D1117" />
 </div>
 
-<br/>
+## 👋 About Me
 
-> ☕ *Superpower:* turning coffee into production-ready code • 🧘 *Fun fact:* I debug at 2AM and call it meditation
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<br clear="right"/>
+> 🧠 **Full Stack + AI Engineer** who turns ideas into real, working products — from RAG chatbots to production dashboards.
+
+- 🔭 Currently building **AI-powered apps** — RAG chatbots & smart dashboards
+- 🌱 Going deep into **Machine Learning, Deep Learning & LLM** applications
+- 💻 Crafting clean full-stack experiences with the **MERN stack & TypeScript**
+- ⚔️ Sharpening **DSA** every single day in **C++ & Java**
+- 🤝 Open to collaborating on **research-driven ML/AI & open-source** projects
+
+<p>
+<img src="https://img.shields.io/badge/📍_Based_in-India-00D9FF?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/🎯_Focus-Full_Stack_%2B_AI-7B2FF7?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/📚_Learning-LLMs_%26_System_Design-FF2E97?style=flat-square&labelColor=0f0c29" />
+</p>
+
+> 💡 *Superpower:* turning coffee into production-ready code — and I debug at 2AM and call it meditation.
+
+</td>
+<td width="42%" valign="top">
+
+<img align="right" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+</td>
+</tr>
+</table>
 
 ## ⚡ &nbsp; Tech Stack
 
