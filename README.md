@@ -177,9 +177,9 @@ A scalable Airbnb-style booking backend built with Spring Boot — containerized
 ## 📊 &nbsp; GitHub at a Glance
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya0105singh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&cache_seconds=60" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditya0105singh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya0105singh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=60" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya0105singh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
 </div>
 
 <br/>
@@ -196,14 +196,6 @@ A scalable Airbnb-style booking backend built with Spring Boot — containerized
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
----
-
-## 🏆 &nbsp; Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya0105singh&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" />
 </div>
 
 ---
