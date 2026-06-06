@@ -14,7 +14,6 @@
 
 <br/>
 
-<!-- PROFILE VIEWS + SOCIAL PROOF -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya0105singh&label=Profile+Views&color=0D1117&style=for-the-badge&labelColor=0D1117" />
   &nbsp;
@@ -27,7 +26,11 @@
 
 ## 🧬 &nbsp; The Story So Far
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
+
+<br/>
 
 ```javascript
 const aditya = {
@@ -54,24 +57,77 @@ const aditya = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-## ⚡ &nbsp; Skills — Visualized
+## ⚡ &nbsp; Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<th>Category</th>
+<th>Tech Stack</th>
+</tr>
+<tr>
+<td><b>Languages</b></td>
+<td>
 
-| 🧠 Domain | 🔧 Technologies | 💪 Depth |
-|---|---|---|
-| **Languages** | TypeScript · Python · C++ · Java · JavaScript | ████████████ |
-| **Frontend** | Next.js · React · Tailwind CSS · HTML5 | ███████████░ |
-| **Backend** | Node · Express · FastAPI · Flask · REST APIs | ██████████░░ |
-| **Databases** | MongoDB · Supabase · PostgreSQL | █████████░░░ |
-| **AI / ML** | TensorFlow · LangChain · HuggingFace · OpenCV | ████████░░░░ |
-| **DevOps & Tools** | Git · AWS · Postman · VS Code · Jupyter | ███████░░░░░ |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -150,7 +206,6 @@ const aditya = {
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -193,7 +248,6 @@ const aditya = {
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 <div align="center">
